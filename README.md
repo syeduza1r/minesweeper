@@ -33,11 +33,11 @@ Welcome to the **Minesweeper Game**, a classic grid-based game implemented in C+
 ## **How to Play**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/minesweeper-cpp.git
+   git clone https://github.com/syeduza1r/minesweeper.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd minesweeper-cpp
+   cd minesweeper
    ```
 3. Compile the program:
    ```bash
